@@ -1,71 +1,50 @@
 # Phân tích cổ phiếu VHM — Công ty Cổ phần Vinhomes
-📅 Ngày phân tích: 29/04/2026 | 📊 Sàn: HOSE | Ngành: Bất động sản dân dụng
+📅 Ngày phân tích: 29/04/2026 | 📊 Sàn: HOSE
 
----
+## 1. Tổng quan Doanh nghiệp
+- **Mô hình kinh doanh:** Vinhomes là nhà phát triển bất động sản (BĐS) dân dụng số 1 Việt Nam, tập trung vào các đại đô thị phức hợp (Ocean Park, Smart City, Grand Park). Chuỗi giá trị khép kín từ quỹ đất, thiết kế, xây dựng đến vận hành quản lý đô thị.
+- **Vị thế cạnh tranh:** Nắm giữ quỹ đất khổng lồ hơn 19,000 ha (lớn nhất VN), khả năng triển khai dự án thần tốc và thương hiệu uy tín bậc nhất giúp tỷ lệ hấp thụ sản phẩm luôn ở mức cao.
+- **Đối thủ cạnh tranh (Peers):**
+    - **Novaland (NVL):** Đối thủ lớn về quy mô dự án nhưng đang trong quá trình tái cấu trúc nợ.
+    - **Khang Điền (KDH) & Nam Long (NLG):** Quy mô nhỏ hơn, tập trung vào phân khúc vừa túi tiền và pháp lý sạch.
+    - **So sánh:** VHM vượt trội hoàn toàn về vốn hóa, doanh thu, lợi nhuận và năng lực tài chính so với các đối thủ cùng ngành.
 
-## 1. THÔNG TIN TỔNG QUAN
-- **Giá hiện tại:** 151,000 VNĐ  
-- **Thay đổi:** +6.94% (phiên gần nhất)
-- **Vốn hóa:** ~620,219 tỷ VNĐ
-- **Thanh khoản:** Rất cao, trung bình 10-15 triệu CP/phiên.
+## 2. Phân tích Cơ bản (Fundamental Analysis - FA)
+- **Sức khỏe tài chính:** Tỷ lệ Nợ/VCSH duy trì ở mức rất thấp so với ngành BĐS. Tổng tài sản ~870,000 tỷ VNĐ, lượng tiền mặt dồi dào (~50,000 tỷ).
+- **Hiệu quả hoạt động:** 
+    - **ROE:** **18.44%** (Mức sinh lời cực tốt).
+    - **Biên lợi nhuận ròng:** Duy trì ở mức cao ~28-30% nhờ giá vốn quỹ đất thấp tích lũy từ sớm.
+- **Động lực tăng trưởng:** 
+    - Doanh thu kế hoạch 2026 bùng nổ lên **285,000 tỷ VNĐ** (+86% YoY).
+    - KQKD Quý 1/2026 cực kỳ ấn tượng với LNST đạt 25,625 tỷ (hoàn thành 43% kế hoạch năm).
+- **Chính sách cổ tức:** 
+    - **Dividend Yield:** Với thị giá 151k, mức cổ tức tiền mặt 6,000đ đem lại lợi suất **~4%**.
+    - **Kế hoạch 2026:** Chia cổ tức kỷ lục gồm **60% tiền mặt** và **100% cổ phiếu**. Đây là cú hích cực lớn cho giá cổ phiếu.
+- **Định giá:** 
+    - **P/E hiện tại:** **15.08** (Cao hơn lịch sử quanh mức 8-10, do giá vừa tăng nóng).
+    - **P/B:** **2.61**. Định giá đang phản ánh phần lớn kỳ vọng vào kế hoạch lợi nhuận 60,000 tỷ và tin tức cổ tức.
 
----
+## 3. Phân tích Kỹ thuật (Technical Analysis - TA)
+- **Xu hướng:** **TĂNG TRƯỞNG MẠNH (Parabolic)**. Giá đã bứt phá từ vùng 100k lên 151k chỉ trong tháng 4. Hiện tại giá đang nằm rất xa các đường MA trung hạn (MA50, MA200), cho thấy trạng thái quá mua.
+- **Vùng giá:**
+    - **Kháng cự:** 155,000 - 160,000 VNĐ.
+    - **Hỗ trợ:** 140,000 VNĐ (Vùng hỗ trợ tâm lý và đỉnh cũ).
+- **Động lượng:** RSI chạm vùng 80-85 (Quá mua cực độ). Khối lượng giao dịch bùng nổ cho thấy dòng tiền đầu cơ đang ở mức cao nhất.
 
-## 2. PHÂN TÍCH KỸ THUẬT (Tham khảo technical.md)
+## 4. Yếu tố Vĩ mô & Ngành (Macro & Catalysts)
+- **Vĩ mô:** Luật Đất đai 2024 tháo gỡ nút thắt pháp lý dự án nhưng cũng làm tăng chi phí sử dụng đất. VHM với năng lực tài chính mạnh sẽ thích nghi tốt hơn các doanh nghiệp nhỏ.
+- **Xúc tác:** 
+    - Tin tức chia cổ tức tiền mặt 60% và cổ phiếu 100%.
+    - Kết quả kinh doanh Quý 1 bùng nổ tạo đà tâm lý hưng phấn.
+- **Rủi ro:** Áp lực chốt lời ngắn hạn khi giá đã đạt trạng thái "nóng". Biến động lãi suất có thể ảnh hưởng đến sức mua nhà.
 
-### Xu hướng
-- **Ngắn hạn:** **TĂNG MẠNH**. Giá bứt phá từ 100k lên 151k trong tháng 4.
-- **Trung hạn:** **TÍCH CỰC**. Các đường MA đang dốc lên mạnh mẽ.
-
-### Vùng giá quan trọng
-- **Kháng cự gần:** 155,000 VNĐ.
-- **Hỗ trợ gần:** 140,000 VNĐ.
-
-### Chỉ báo kỹ thuật
-- **Khối lượng:** Bùng nổ mạnh mẽ, đặc biệt là các phiên trung tuần tháng 4, cho thấy dòng tiền lớn dẫn dắt cuộc chơi.
-
----
-
-## 3. PHÂN TÍCH CƠ BẢN (Tham khảo fundamental.md & valuation.md)
-
-### Chỉ số tài chính & Định giá
-| Chỉ số | Giá trị | Nhận xét |
-|---|---|---|
-| **P/E** | 15.08 | Hợp lý với vị thế doanh nghiệp BĐS số 1 VN. |
-| **P/B** | 2.61 | Định giá khá cao nhưng tương xứng với quỹ đất khổng lồ. |
-| **ROE** | 18.44% | **Rất tốt** (>15%), hiệu quả sử dụng vốn cao. |
-
----
-
-## 4. THÔNG TIN CỔ TỨC 2026 💰
-
-Vinhomes đã thông qua kế hoạch chi trả cổ tức "khủng" trong năm 2026:
-- **Cổ tức tiền mặt:** Tỷ lệ **60%** (6,000đ/cp).
-- **Cổ tức cổ phiếu:** Tỷ lệ **100%** (1:1).
-- **Mục tiêu:** Tăng vốn điều lệ lên gấp đôi (hơn 82,000 tỷ đồng) và tối ưu lợi ích cho cổ đông sau 3 năm tích lũy.
-
----
-
-## 5. TRIỂN VỌNG & RỦI RO
-
-### Điểm mạnh (Positives) ✅
-- **Quỹ đất cực lớn:** Khả năng triển khai và bán hàng dẫn đầu thị trường.
-- **Xúc tác cổ tức:** Thông tin chia cổ tức kỷ lục là động lực tăng trưởng chính.
-
-### Rủi ro (Risks) ⚠️
-- **Áp lực chốt lời:** Giá tăng nóng (50% trong 1 tháng) dễ dẫn đến nhịp điều chỉnh kỹ thuật.
-- **Biến động vĩ mô:** Thị trường BĐS vẫn nhạy cảm với lãi suất và pháp lý dự án.
-
----
-
-## 6. KHUYẾN NGHỊ
-
-| Mức độ | Nội dung |
-|---|---|
-| **Khuyến nghị** | **TRUNG LẬP / THEO DÕI CHỐT LỜI** |
-| **Giá mục tiêu** | 160,000 VNĐ |
-| **Cắt lỗ/Chặn lãi** | 140,000 VNĐ |
+## 5. Kết luận & Kịch bản hành động
+- **Đánh giá tổng quan:** **TÍCH CỰC (Về cơ bản) / THẬN TRỌNG (Về kỹ thuật)**.
+- **Kế hoạch giao dịch:**
+    - **Chiều mua:** **KHÔNG MUA ĐUỔI** tại mức giá 151k. Nên đợi các nhịp điều chỉnh về vùng 135k - 140k hoặc tích lũy nền giá mới.
+    - **Chiều bán:** Nhà đầu tư đang có hàng nên ưu tiên **Chặn lãi tại 140,000 VNĐ**. Có thể chốt lời một phần tại vùng 155k-160k.
+- **Quản trị rủi ro:** Tuyệt đối tuân thủ kỷ luật chặn lãi, tránh để mất lợi nhuận trong trường hợp thị trường đảo chiều nhanh.
 
 > 📁 **Đã xuất file báo cáo:** `C:\Users\JKSERVER\VHM.20260429.md`
 
-> ⚠️ *Đây là phân tích tham khảo, không phải tư vấn đầu tư chính thức. Nhà đầu tư tự chịu trách nhiệm quyết định của mình.*
+> ⚠️ *Đây là phân tích tham khảo dựa trên dữ liệu cập nhật, không phải tư vấn đầu tư chính thức. Nhà đầu tư tự chịu trách nhiệm quyết định của mình.*
