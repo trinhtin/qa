@@ -1,78 +1,52 @@
 # Phân tích cổ phiếu VCB — Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank)
-📅 Ngày phân tích: 29/04/2026 | 📊 Sàn: HOSE | Ngành: Ngân hàng
+📅 Ngày phân tích: 29/04/2026 | 📊 Sàn: HOSE
 
----
+## 1. Tổng quan Doanh nghiệp
+- **Mô hình kinh doanh:** Vietcombank là ngân hàng số 1 Việt Nam về vốn hóa và lợi nhuận. Đang chuyển dịch mạnh mẽ từ bán buôn sang **Ngân hàng số & Bán lẻ hiện đại**, với mục tiêu mảng bán lẻ đóng góp 50% thu nhập.
+- **Vị thế cạnh tranh:** "Anh cả" ngành ngân hàng với lợi thế chi phí vốn (CASA) cực thấp, dẫn đầu trong mảng thanh toán quốc tế và kinh doanh ngoại hối. Thương hiệu uy tín nhất hệ thống giúp VCB luôn được ưu tiên trong các chính sách của Chính phủ và NHNN.
+- **Đối thủ cạnh tranh (Peers):**
+    - **Nhóm Big 4:** **BID (BIDV)** và **CTG (VietinBank)** cạnh tranh về quy mô tổng tài sản và khách hàng doanh nghiệp nhà nước.
+    - **Nhóm Tư nhân:** **TCB (Techcombank)** và **MBB (MBBank)** cạnh tranh về tốc độ chuyển đổi số và tỷ lệ CASA.
+    - **So sánh:** VCB có lợi thế Moat (hào kinh tế) cực lớn về quản trị rủi ro và chất lượng tài sản, vượt xa các đối thủ về tỷ lệ bao phủ nợ xấu (~259%).
 
-## 1. THÔNG TIN TỔNG QUAN
-- **Giá hiện tại:** 59,800 VNĐ  
-- **Thay đổi:** 0% (phiên gần nhất 28/04)
-- **Vốn hóa:** ~499,669 tỷ VNĐ (Doanh nghiệp có vốn hóa lớn nhất thị trường chứng khoán VN)
-- **Thanh khoản:** Ổn định, khối lượng giao dịch bình quân 10 phiên duy trì ở mức 5 - 10 triệu CP.
+## 2. Phân tích Cơ bản (Fundamental Analysis - FA)
+- **Sức khỏe tài chính:** Cực kỳ vững chắc. Tỷ lệ nợ xấu (NPL) duy trì **dưới 1%**, thuộc nhóm sạch nhất hệ thống. VCB vừa hoàn tất nhận chuyển giao bắt buộc CBBank, củng cố thêm vị thế và nhận được ưu đãi về hạn mức tín dụng.
+- **Hiệu quả hoạt động:** 
+    - **ROE:** **16.73%** (Hiệu suất sinh lời cao và bền vững).
+    - **ROA:** **1.56%**.
+    - Lợi nhuận trước thuế 2025 đạt ~44,000 tỷ VNĐ (Quán quân hệ thống).
+- **Động lực tăng trưởng:** 
+    - Kế hoạch tăng vốn điều lệ lên sát **100,000 tỷ đồng** thông qua phát hành cổ phiếu thưởng và chào bán riêng lẻ 6.5% cho đối tác chiến lược (Mizuho).
+    - Mở rộng ngân hàng con tại Trung tâm Tài chính Quốc tế Việt Nam.
+- **Chính sách cổ tức:** 
+    - **Dividend Yield:** **0.75%** (Rất thấp so với lãi suất ngân hàng 6%). VCB ưu tiên giữ lại lợi nhuận để tăng vốn và tái đầu tư.
+    - **Tính đều đặn:** Năm 2025 đã trả cổ tức tiền mặt 4.5%. Kế hoạch 2026 dự kiến chi khoảng **20,331 tỷ đồng** để chia cổ tức (phần lớn là cổ phiếu để tăng vốn).
+- **Định giá:** 
+    - **P/E hiện tại:** **15.53** (Cao hơn trung bình ngành quanh mức 9-11, phản ánh vị thế cổ phiếu "Blue-chip" hạng nhất).
+    - **P/B:** **2.23**. Định giá ở mức cao (Premium) nhưng hợp lý với chất lượng tài sản hàng đầu.
 
----
+## 3. Phân tích Kỹ thuật (Technical Analysis - TA)
+- **Xu hướng:** **TÍCH LŨY CHẶT CHẼ**. Giá đang đi ngang trong biên độ hẹp quanh vùng 58,000 - 61,000 VNĐ. Đường MA50 và MA200 đang hội tụ, cho thấy trạng thái nén giá mạnh.
+- **Vùng giá:**
+    - **Kháng cự:** 63,500 VNĐ (Đỉnh cũ gần nhất).
+    - **Hỗ trợ:** 57,500 - 58,000 VNĐ (Vùng hỗ trợ tâm lý và đáy trung hạn).
+- **Động lượng:** RSI quanh mức 50 (trung tính). Khối lượng giao dịch phiên 23/04 bùng nổ (>35 triệu CP) là tín hiệu "đánh thức" cổ phiếu sau chu kỳ ngủ đông.
 
-## 2. PHÂN TÍCH KỸ THUẬT (Tham khảo technical.md)
+## 4. Yếu tố Vĩ mô & Ngành (Macro & Catalysts)
+- **Vĩ mô:** Luật các TCTD mới hỗ trợ tiến trình tái cơ cấu ngân hàng yếu kém. VCB hưởng lợi từ việc được NHNN cấp "room" tín dụng cao hơn nhờ hỗ trợ hệ thống.
+- **Xúc tác:** 
+    - Câu chuyện tăng vốn lên mốc 100,000 tỷ đồng là "Game" lớn nhất ngành ngân hàng 2026.
+    - Việc hoàn tất nhận chuyển giao CBBank giúp gỡ bỏ các rào cản pháp lý mở rộng quy mô.
+- **Rủi ro:** Áp lực pha loãng EPS khi lượng lớn cổ phiếu thưởng được phát hành. Biến động tỷ giá có thể ảnh hưởng đến mảng kinh doanh ngoại hối.
 
-### Xu hướng
-- **Ngắn hạn (1-4 tuần):** **ĐI NGANG (Sideway)**. Giá đang dao động tích lũy trong vùng hẹp 58,000 - 61,000 VNĐ sau nhịp biến động mạnh vào ngày 23/04.
-- **Trung hạn (1-3 tháng):** **TÍCH LŨY**. VCB đang tạo nền giá khá vững chắc quanh vùng 60k, chuẩn bị cho các đợt tăng vốn và chia cổ tức lớn.
-
-### Vùng giá quan trọng
-- **Kháng cự gần:** 63,500 VNĐ (Đỉnh ngắn hạn ngày 23/04).
-- **Hỗ trợ gần:** 57,500 - 58,000 VNĐ (Vùng đáy ngắn hạn tháng 3 và tháng 4).
-
-### Chỉ báo kỹ thuật
-- **Khối lượng:** Có phiên bùng nổ cực mạnh (hơn 35 triệu CP) vào ngày 23/04, cho thấy có sự tham gia của dòng tiền lớn dẫn dắt xu hướng.
-- **Vận động:** Giá đang bám sát đường MA20, xu hướng chung là tích lũy chặt chẽ.
-
----
-
-## 3. PHÂN TÍCH CƠ BẢN (Tham khảo fundamental.md & valuation.md)
-
-### Kết quả kinh doanh & Sức khỏe tài chính
-- **Vị thế:** "Anh cả" ngành ngân hàng với lợi nhuận trước thuế 2025 đạt hơn 44,000 tỷ đồng (Quán quân lợi nhuận).
-- **ROE:** **16.73%** — Hiệu quả sinh lời rất cao và bền vững.
-- **Nợ xấu (NPL):** Kiểm soát cực tốt ở mức **dưới 1%**, chất lượng tài sản hàng đầu hệ thống.
-
-### Định giá
-| Chỉ số | Giá trị | Nhận xét |
-|---|---|---|
-| **P/E** | 15.53 | Mức định giá cao hơn trung bình ngành, phản ánh vị thế "premium" của VCB. |
-| **P/B** | 2.23 | Định giá tương xứng với chất lượng tài sản và uy tín thương hiệu. |
-
----
-
-## 4. THÔNG TIN CỔ TỨC 2026 💰
-
-VCB đang triển khai kế hoạch chia cổ tức và tăng vốn "khủng":
-- **Kế hoạch năm 2026 (Cho năm 2025):** Dự kiến chi toàn bộ lợi nhuận còn lại (khoảng **20,331 tỷ đồng**) để trả cổ tức.
-- **Lịch sử gần đây:** Tháng 10/2025 đã trả cổ tức tiền mặt tỷ lệ 4.5%.
-- **Lộ trình tăng vốn:** Phát hành hơn 1 tỷ cổ phiếu thưởng (từ lợi nhuận giữ lại) và kế hoạch phát hành riêng lẻ 6.5% vốn cho cổ đông chiến lược. Mục tiêu đưa vốn điều lệ tiến sát ngưỡng 100,000 tỷ đồng.
-
----
-
-## 5. TRIỂN VỌNG & RỦI RO
-
-### Điểm mạnh (Positives) ✅
-- **Quản trị rủi ro hàng đầu:** Nền tảng tài chính cực kỳ vững chắc, nợ xấu thấp nhất hệ thống.
-- **Câu chuyện tăng vốn:** Lộ trình tăng vốn điều lệ lên mức kỷ lục là động lực tăng trưởng giá cổ phiếu.
-- **Vai trò dẫn dắt:** Là công cụ điều tiết vĩ mô quan trọng, được ưu tiên trong các chính sách của NHNN.
-
-### Rủi ro (Risks) ⚠️
-- **Pha loãng:** Việc phát hành thêm lượng lớn cổ phiếu có thể gây áp lực lên EPS ngắn hạn.
-- **Room ngoại:** Hạn chế về tỷ lệ sở hữu nước ngoài là rào cản cho sự bứt phá mạnh mẽ của dòng vốn ngoại.
-
----
-
-## 6. KHUYẾN NGHỊ
-
-| Mức độ | Nội dung |
-|---|---|
-| **Khuyến nghị** | **MUA / NẮM GIỮ DÀI HẠN** |
-| **Giá mục tiêu** | 72,000 VNĐ (Upside ~20%) |
-| **Cắt lỗ** | 56,000 VNĐ |
-| **Thời gian** | 6 - 12 tháng |
+## 5. Kết luận & Kịch bản hành động
+- **Đánh giá tổng quan:** **TÍCH CỰC (Dài hạn)**. VCB là cổ phiếu "neo" chỉ số, phù hợp cho nhà đầu tư tổ chức và cá nhân ưu tiên sự an toàn tuyệt đối.
+- **Kế hoạch giao dịch:**
+    - **Điểm mua:** Mua gom tích lũy quanh vùng **58,000 - 60,000 VNĐ**. Đây là vùng giá nền an toàn.
+    - **Trigger point:** Gia tăng tỷ trọng khi giá vượt hẳn **61,500 VNĐ** với khối lượng lớn.
+    - **Mục tiêu:** 72,000 - 75,000 VNĐ.
+- **Quản trị rủi ro:** Cắt lỗ nếu giá đóng cửa thủng vùng hỗ trợ cứng **56,000 VNĐ**.
 
 > 📁 **Đã xuất file báo cáo:** `C:\Users\JKSERVER\VCB.20260429.md`
 
-> ⚠️ *Đây là phân tích tham khảo, không phải tư vấn đầu tư chính thức. Nhà đầu tư tự chịu trách nhiệm quyết định của mình.*
+> ⚠️ *Đây là phân tích tham khảo dựa trên dữ liệu cập nhật, không phải tư vấn đầu tư chính thức. Nhà đầu tư tự chịu trách nhiệm quyết định của mình.*
